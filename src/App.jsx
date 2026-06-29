@@ -114,7 +114,7 @@ export default function App() {
     }
 
     setPassword('');
-    setMessage(authMode === 'login' ? 'Logged in successfully.' : 'Check your email if confirmation is enabled.');
+    setMessage(authMode === 'login' ? 'Logged in successfully.' : 'Account created. You are logged in.');
   }
 
   async function signOut() {
