@@ -4,7 +4,7 @@ Habit Atlas is a Week 2 full-stack assignment project. It is a private habit tra
 
 ## Live URL
 
-Add the deployed Netlify URL here after deployment.
+https://creative-brioche-ffad96.netlify.app/
 
 ## Features
 
